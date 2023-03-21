@@ -1,0 +1,18 @@
+[submodule "c-piscine"]
+	path = c-piscine
+	url = https://github.com/thdoenle/c-piscine
+[submodule "so_long"]
+	path = so_long
+	url = https://github.com/thdoenle/so_long
+[submodule "ft_printf"]
+	path = ft_printf
+	url = https://github.com/thdoenle/ft_printf
+[submodule "push_swap"]
+	path = push_swap
+	url = https://github.com/thdoenle/push_swap
+[submodule "get_next_line"]
+	path = get_next_line
+	url = https://github.com/thdoenle/get_next_line
+[submodule "libft"]
+	path = libft
+	url = https://github.com/thdoenle/libft
